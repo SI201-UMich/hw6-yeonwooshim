@@ -2,13 +2,16 @@
 # Your name: Yeonwoo Shim
 # Your student id: 98360289
 # Your email: yanoo@umich.edu
+#
 # Who or what you worked with on this homework (including generative AI like ChatGPT):
-# If you worked with generative AI also add a statement for how you used it.
-# e.g.:
-# Asked ChatGPT for help debugging and understanding the JSON structure
+# I used ChatGPT as a debugging and learning tool to help interpret error messages,
+# understand issues in my code, and guide me toward fixing bugs. I ensured that I
+# understood all suggested changes and wrote the final code myself.
 #
 # Did your use of GenAI on this assignment align with your goals and guidelines in your Gen AI contract? If not, why?
-#
+# Yes, my use of GenAI aligned with my contract. I used it to support my learning
+# and problem-solving process rather than to generate complete solutions.
+
 # --- ARGUMENTS & EXPECTED RETURN VALUES PROVIDED --- #
 # --- SEE INSTRUCTIONS FOR FULL DETAILS ON METHOD IMPLEMENTATION --- #
 
